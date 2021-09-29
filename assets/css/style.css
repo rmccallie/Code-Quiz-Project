@@ -6,3 +6,8 @@ body{
     top: 14px;
     left: 14px;
 }
+.top-right {
+    position: absolute;
+    top: 14px;
+    right: 14px;
+}
